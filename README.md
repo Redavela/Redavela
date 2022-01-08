@@ -12,13 +12,15 @@ I'm Reda from France, and I do content on Design and Development. I really enjoy
 * 💻 HTML, CSS, JS
 * 🖌️ FIGMA
 
-## Example of Work and Stats 
+## Example of Work 
 
-<img align="left" src="https://github.com/Redavela/Redavela/blob/0865c93f0f8d55b8c1785f0291ca135dc5b6d6e7/graphique.png" width="450">
+<img src="https://github.com/Redavela/Redavela/blob/0865c93f0f8d55b8c1785f0291ca135dc5b6d6e7/graphique.png" width="550">
+
+
+
+## Stats && Contact
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=redavela)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact
 
 📫  kodadreda67@gmail.com
 
