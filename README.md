@@ -17,7 +17,9 @@ I'm Reda from France, and I do content on Design and Development. I really enjoy
 <img src="https://github.com/Redavela/Redavela/blob/0865c93f0f8d55b8c1785f0291ca135dc5b6d6e7/graphique.png" width="550">
 
 ### Project #12 of 14 with OpenClassRooms
-the link for more details : https://github.com/Redavela/KODAD_REDA_12_10-10-2021
+Link : https://sportseeproject.herokuapp.com/12
+
+If you change the number 12 at the end of the url by 18 you can see an other user
 
 
 
