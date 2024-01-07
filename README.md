@@ -4,11 +4,13 @@
 
 
 
-I'm Reda from France, and I do content on Design and Development. I really enjoy learning languages and frameworks like React. I also enjoy ui, ux, and design in general.
+I'm Reda from France, and I do content on Development. 
+I love web development, and I have specialized in C# .NET.
+I have been working with this language for almost 2 years, and I learn something new every day!
 
 ## Skills
-
-* ⚛️ REACT
+* 💻 C#, .Net
+* ⚛️ REACT, VueJs
 * 💻 HTML, CSS, JS
 * 🖌️ FIGMA
 
@@ -23,9 +25,7 @@ If you change the number 12 at the end of the url by 18 you can see an other use
 
 
 
-## Stats && Contact
-
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=redavela)](https://github.com/anuraghazra/github-readme-stats)
+## Contact
 
 📫  kodadreda67@gmail.com
 
